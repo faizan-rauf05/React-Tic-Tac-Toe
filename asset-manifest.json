@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/faizan-rauf05/React-Tic-Tac-Toe/static/css/main.0e92a3bf.css",
+    "main.js": "/faizan-rauf05/React-Tic-Tac-Toe/static/js/main.ee12da40.js",
+    "index.html": "/faizan-rauf05/React-Tic-Tac-Toe/index.html",
+    "main.0e92a3bf.css.map": "/faizan-rauf05/React-Tic-Tac-Toe/static/css/main.0e92a3bf.css.map",
+    "main.ee12da40.js.map": "/faizan-rauf05/React-Tic-Tac-Toe/static/js/main.ee12da40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e92a3bf.css",
+    "static/js/main.ee12da40.js"
+  ]
+}
